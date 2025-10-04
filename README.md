@@ -5,6 +5,15 @@ Given an array and a target value, remove all occurrences of the target **in-pla
 
 ---
 
+## Problem Keywords
+- Remove Element LeetCode Solution  
+- Two Pointer Approach in Arrays  
+- Remove Target Element from Array in-place  
+- Python Array In-place Modification  
+- Array Filtering without Extra Space
+
+---
+
 ## Code
 ```python
 arr = [0,1,2,2,3,0,4,2]
