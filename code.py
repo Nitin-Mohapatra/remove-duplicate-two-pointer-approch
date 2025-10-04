@@ -1,6 +1,6 @@
 arr = [0,1,2,2,3,0,4,2]
 target = 2
-j = 0
+j    = 0
 
 for i in range(len(arr)):
     if arr[i] != target:
